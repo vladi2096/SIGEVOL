@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SIGEVOL">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/SIGEVOL.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
